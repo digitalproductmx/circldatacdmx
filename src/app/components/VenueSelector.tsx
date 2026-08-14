@@ -1,7 +1,7 @@
 import { motion } from "motion/react";
 import { MapPin, Users, Calendar, ShoppingBag } from "lucide-react";
 import { useState } from "react";
-import aerialImg from "../../imports/azteca-stadium-aerial.png";
+import aerialImg from "../../imports/azteca-stadium-aerial.webp";
 
 interface Venue {
   id: string;

@@ -1,7 +1,7 @@
 import { motion } from "motion/react";
 import { Sparkles, Move } from "lucide-react";
 import { useState, useRef } from "react";
-import digitalTwinImg from "../../imports/azteca-stadium-digital-twin.png";
+import digitalTwinImg from "../../imports/azteca-stadium-digital-twin.webp";
 
 interface Container {
   id: string;
